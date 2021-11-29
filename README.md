@@ -1,5 +1,6 @@
 # mini-shell
 • I have printed the prompt showing current directory path in ANSI_COLOR_BLUE (Bold).
+
 • The temporary history file is created as “/tmp/history.txt”.
 
 • Supported internal commands: cd, echo, pwd, history, exit
